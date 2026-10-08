@@ -38,6 +38,8 @@ Students and young adults aged 18–30 in India who want more energy, excitement
 ## Integrity Pact
 
 We will only claim evidence we can show. We will verify every AI claim.
+
+I, Sachin, will only claim evidence I can show.
 I, Dhilruba, will only claim evidence I can show
 I, Jose kutty, will only claim evidence I can show
 
