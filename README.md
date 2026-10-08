@@ -48,7 +48,7 @@ We will only claim evidence we can show. We will verify every AI claim.
 ## Evidence
 
 - Google Sites URL:
-- GitHub Repository URL:
+- GitHub Repository URL:https://github.com/preator8139/doomsday-protocol-Earth-8311
 - Touchpoint Inventory:
 - Channels Page:
 
