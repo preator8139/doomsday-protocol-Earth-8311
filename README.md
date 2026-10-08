@@ -4,7 +4,7 @@
 
 **Campaign:** Unleash Your Edge
 
-**Campaign HQ site:** [PASTE YOUR GOOGLE SITES LINK HERE]
+**Campaign HQ site:** (https://sites.google.com/view/earth-8311redbull/home)
 
 ## Brand
 
@@ -39,6 +39,7 @@ Students and young adults aged 18–30 in India who want more energy, excitement
 
 We will only claim evidence we can show. We will verify every AI claim.
 
+I, Sai Nath, will only claim evidence I can show
 I, Sachin, will only claim evidence I can show.
 I, Dhilruba, will only claim evidence I can show
 I, Jose kutty, will only claim evidence I can show
@@ -52,7 +53,7 @@ I, Arjun T, will only claim evidence I can show
 
 ## Evidence
 
-- Google Sites URL:
+- Google Sites URL:https://sites.google.com/view/earth-8311redbull/home
 - GitHub Repository URL:https://github.com/preator8139/doomsday-protocol-Earth-8311
 - Touchpoint Inventory:
 - Channels Page:
